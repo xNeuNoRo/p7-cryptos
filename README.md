@@ -1,6 +1,6 @@
 # Proyecto 7 - Aplicación para Cotizar Cryptos
 
-[![Estado](https://img.shields.io/badge/status-completed-brightgreen)](https://github.com/xNeuNoRo/p6-clima-react)
+[![Estado](https://img.shields.io/badge/status-completed-brightgreen)](https://github.com/xNeuNoRo/p7-cryptos)
 [![Vite](https://img.shields.io/badge/bundler-vite-blue)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
